@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="male">MALE</string>
+    <string name="male_desc">Male</string>
+    <string name="female">FEMALE</string>
+    <string name="female_desc">Female</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="height">HEIGHT</string>
+    <string name="cm">cm</string>
+    <string name="weight">WEIGHT</string>
+    <string name="age">AGE</string>
+    <string name="plus">Plus</string>
+    <string name="minus">Minus</string>
+    <string name="calculate_your_bmi">CALCULATE YOUR BMI</string>
+    <string name="call">Call</string>
+    <string name="profile">Profile</string>
+    <string name="rate">Rate</string>
+    <string name="back">Back</string>
+    <string name="delivery_code">Delivery Code</string>
+    <string name="info">Info</string>
+    <string name="cash">Cash</string>
+    <string name="mins_left">mins left</string>
+    <string name="prepare">prepare</string>
+    <string name="cooking">cooking</string>
+    <string name="coming">Coming</string>
+    <string name="done">Done</string>
+</resources>
